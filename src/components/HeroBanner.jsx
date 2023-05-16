@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { motion } from "framer-motion";
 
 import Wrapper from "./Wrapper";
-import man from "../assets/man.png";
+import man from "../assets/eu.png";
 import externalLinkIcon from "../assets/external-link-icon.png";
 import gmailIcon from "../assets/email-icon.png";
 import { scrollTo } from "../helper";
